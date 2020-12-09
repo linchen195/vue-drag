@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # hello-world
 
 ## Project setup
@@ -23,6 +24,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-drag
+vue拖拽
+>>>>>>> 2ecf0a36fc890a49540942ecc04dea5f04d9a109
 =======
 # vue-drag
 vue拖拽
