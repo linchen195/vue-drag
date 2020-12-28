@@ -72,5 +72,8 @@ module.exports = {
     'vue/max-attributes-per-line': 0,
     'vue/name-property-casing': 0,
     'vue/require-default-prop': 0
-  }
+  },
+  parserOptions: {
+    parser: 'babel-eslint'
+  },
 }
